@@ -44,10 +44,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushant8887&theme=tokyonight" height="160" alt="Top languages" />
 </div>
 
-## GitHub Trophies
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sushant8887&theme=tokyonight&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushant8887&theme=tokyo-night" alt="GitHub activity graph" />
+</div>
+
+## Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushant8887&theme=tokyonight" alt="Profile summary" />
 </div>
 
 ## Current Focus
