@@ -40,8 +40,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushant8887&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant8887&layout=compact&langs_count=6&theme=tokyonight" height="160" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sushant8887&theme=tokyonight" height="160" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sushant8887&theme=tokyonight" height="160" alt="Top languages" />
 </div>
 
 ## GitHub Trophies
