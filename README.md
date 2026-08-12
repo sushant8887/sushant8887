@@ -1,6 +1,6 @@
-<h2 align="left">Hi, I'm Sushant Kumbhar</h2>
+<h1 align="center">Hi, I'm Sushant Kumbhar</h1>
 
-<h4 align="left">
+<h4 align="center">
 Full Stack Web Developer with 2+ years of experience building responsive, scalable, and user-focused web applications.
 I work across frontend and backend with Angular, Vue, React, JavaScript, TypeScript, Node.js, and modern web tooling.
 I enjoy turning complex problems into clean, practical products.
@@ -8,7 +8,7 @@ I enjoy turning complex problems into clean, practical products.
 
 <div align="center">
   <a href="https://my-portfolio-sushant8887.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sushant-kumbhar-214a59276" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sushant%20Kumbhar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -24,12 +24,8 @@ I enjoy turning complex problems into clean, practical products.
 ###
 
 <div align="center">
-  <a href="https://github.com/sushant8887">
-    <img src="https://github-readme-stats.vercel.app/api?username=sushant8887&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/sushant8887">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant8887&layout=compact&langs_count=6&theme=tokyonight" height="160" alt="Top languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sushant8887&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant8887&layout=compact&langs_count=6&theme=tokyonight" height="160" alt="Top languages" />
 </div>
 
 ###
@@ -41,7 +37,7 @@ I enjoy turning complex problems into clean, practical products.
 ### Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,vue,react,html,css,bootstrap,nodejs,java,python,mysql,php,vscode,git" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,vue,react,html,css,bootstrap,nodejs,java,python,mysql,php,vscode,git,github" alt="tech stack" />
 </div>
 
 ### About Me
